@@ -6,6 +6,6 @@ Une jam Lorik Alimi nxenes i gjimnazit Sami Frasheri jetoj ne qytetin e Kumanove
 
 # Gjerat qe me pelqejn
 
-,Programimi
+Programimi
 ,Sportet
 ,Muzika dhe Arti ne teresi
